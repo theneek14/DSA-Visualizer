@@ -2,12 +2,6 @@
 
 # [DS ALGO](http://theneek14.github.io/DSA-Visualizer/)  ⚡️ [![GitHub](https://img.shields.io/github/license/theneek14/DSA-Visualizer?color=blue)](https://github.com/theneek14/DSA-Visualizer/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/theneek14/DSA-Visualizer)](https://github.com/theneek14/DSA-Visualizer/stargazers)  [![GitHub contributors](https://img.shields.io/github/contributors/theneek14/DSA-Visualizer.svg)](https://github.com/theneek14/DSA-Visualizer/graphs/contributors)   [![GitHub issues](https://img.shields.io/github/issues/theneek14/DSA-Visualizer.svg)](https://github.com/theneek14/DSA-Visualizer/issues) [![GitHub forks](https://img.shields.io/github/forks/theneek14/DSA-Visualizer.svg?style=social&label=Fork)](https://GitHub.com/theneek14/DSA-Visualizer/network/)
 
-<p align="center">
- <img style="margin:auto" width="300" src="https://github.com/theneek14/DSA-Visualizer/blob/main/logo/logo_2.png?raw=true" />
- <!-- <h2 align="center">DSALGO VISUALIZER </h2> -->
-</p>
-
-<img width="100%" src="https://github.com/theneek14/DSA-Visualizer/blob/main/git_home/gif.gif?raw=true" />
 
 > **<a href="https://theneek14.github.io/DSA-Visualizer/" >Ds Algo visualizer</a>** is made for students who want to learn **Data structures and algorithms** with Animations. This project includes all the important data structures that are  being used widely. <!-- Even 450+ questions are included that you can solve simuntaneouly to make a strong grip over each of these data structures and algorithms.-->
 
@@ -197,9 +191,6 @@
 1. [NP-Hard](http://theneek14.github.io/DSA-Visualizer/templates/np_hard.html)
 2. [NP-Complete](http://theneek14.github.io/DSA-Visualizer/templates/np_hard.html)
 
-
-## <a href="https://medium.com/mindsdb/contributing-to-an-open-source-project-how-to-get-started-6ba812301738">How To Contribure</a>
-> When I thought of commencing this project the first doubt that came to mind was that Should I use Javascript Framework (REACT) or Vanilla Js To create this project and finally I decided to use Vanilla Js and the reason I came to this conclusion was that I wanted to keep this project simple so that more and more people could contribute and learn from it.
 
 
 
