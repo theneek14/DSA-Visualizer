@@ -3,9 +3,9 @@
 # [DS ALGO](http://theneek14.github.io/DSA-Visualizer/)  ⚡️ [![GitHub](https://img.shields.io/github/license/theneek14/DSA-Visualizer?color=blue)](https://github.com/theneek14/DSA-Visualizer/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/theneek14/DSA-Visualizer)](https://github.com/theneek14/DSA-Visualizer/stargazers)  [![GitHub contributors](https://img.shields.io/github/contributors/theneek14/DSA-Visualizer.svg)](https://github.com/theneek14/DSA-Visualizer/graphs/contributors)   [![GitHub issues](https://img.shields.io/github/issues/theneek14/DSA-Visualizer.svg)](https://github.com/theneek14/DSA-Visualizer/issues) [![GitHub forks](https://img.shields.io/github/forks/theneek14/DSA-Visualizer.svg?style=social&label=Fork)](https://GitHub.com/theneek14/DSA-Visualizer/network/)
 
 
-> **<a href="https://theneek14.github.io/DSA-Visualizer/" >Ds Algo visualizer</a>** is made for students who want to learn **Data structures and algorithms** with Animations. This project includes all the important data structures that are  being used widely. <!-- Even 450+ questions are included that you can solve simuntaneouly to make a strong grip over each of these data structures and algorithms.-->
+> **<a href="https://theneek14.github.io/DSA-Visualizer/" >DSA-Visualizer</a>** is made for students who want to learn **Data structures and algorithms** with Animations. This project includes all the important data structures that are  being used widely. <!-- Even 450+ questions are included that you can solve simuntaneouly to make a strong grip over each of these data structures and algorithms.-->
 
-### <a href="https://theneek14.github.io/DSA-Visualizer/" >DSALGO VISUALIZER INCLUDES</a>
+### <a href="https://theneek14.github.io/DSA-Visualizer/" >DSA-VISUALIZER INCLUDES</a>
 
 **DATA STRUCTURES**
  1.  [Array](http://theneek14.github.io/DSA-Visualizer/templates/array.html)
